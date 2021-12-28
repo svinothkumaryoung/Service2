@@ -31,7 +31,6 @@ public class ManufacturerServices {
         ac.setManufactuer(manu);
         ac.setProduct(product);
         return ac;
-
     }
 
 
